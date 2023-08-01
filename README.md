@@ -1,1 +1,1 @@
-# USYD
+# USYD courses
